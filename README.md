@@ -1,4 +1,4 @@
-# WeekomWork
+# Anti Switch
 ##### This plugin check the modifier when EntityDamageEvent is called.
  
 _The modifier of damage `EntityDamageEvent::MODIFIER_PREVIOUS_DAMAGE_COOLDOWN` is called when the player damage another player with attackCooldown so the modifier is here to reduce the damage._
