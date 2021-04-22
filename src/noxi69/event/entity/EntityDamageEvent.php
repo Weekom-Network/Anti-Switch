@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace noxi69;
+namespace noxi69\event\entity;
 
 use pocketmine\event\Listener;
 use pocketmine\Player;

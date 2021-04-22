@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace noxi69\event;
 
 use noxi69\AntiSwitch;
-use noxi69\EntityDamageEvent;
+use noxi69\event\entity\EntityDamageEvent;
 
 /**
  * Class EventHandler
