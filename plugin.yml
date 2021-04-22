@@ -1,0 +1,8 @@
+name: AntiSwitch
+author: noxi69
+version: 1.0
+main: noxi69\AntiSwitch
+description: "Plugin to prevent antiSwitch"
+api:
+  - 3.0.0
+  - 4.0.0
