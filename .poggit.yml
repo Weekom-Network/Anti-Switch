@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Weekom-Network/Anti-Switch
+build-by-default: true
+branches:
+- main
+projects:
+  Anti-Switch:
+    path: ""
+...
